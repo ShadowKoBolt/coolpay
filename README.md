@@ -95,3 +95,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 * Objectify recipients and payments
 * Add links between objects to allow calls like `client.recipients.first.payments` or `client.recipients.first.create_payment`
 * Add error parsing to improve the representation of errors returned from the API
+* Add missing specs
